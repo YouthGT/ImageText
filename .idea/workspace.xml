@@ -30,6 +30,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< Updated upstream
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
@@ -44,6 +45,19 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+>>>>>>> Stashed changes
   }
 }</component>
   <component name="RecentsManager">
@@ -74,10 +88,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737098526618</updated>
+<<<<<<< Updated upstream
       <workItem from="1737098527674" duration="5547000" />
       <workItem from="1737105327980" duration="534000" />
       <workItem from="1737105866527" duration="1287000" />
       <workItem from="1737107314356" duration="43000" />
+=======
+      <workItem from="1737098527674" duration="5597000" />
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="add .">
       <option name="closed" value="true" />
