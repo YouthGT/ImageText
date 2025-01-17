@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4880e878-b1b2-4b35-a302-10009ad1053a" name="更改" comment="" />
+    <list default="true" id="4880e878-b1b2-4b35-a302-10009ad1053a" name="更改" comment="add ." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +35,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/Project/Python/imageTextProject",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,12 +60,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="7772d9e5-c25d-4a20-83fe-dfbd1626ccc3" name="更改" comment="" />
+      <changelist id="4880e878-b1b2-4b35-a302-10009ad1053a" name="更改" comment="" />
       <created>1737098526618</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737098526618</updated>
       <workItem from="1737098527674" duration="5547000" />
+      <workItem from="1737105327980" duration="534000" />
     </task>
     <task id="LOCAL-00001" summary="add .">
       <option name="closed" value="true" />
@@ -98,7 +100,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737104310255</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add .">
+      <option name="closed" value="true" />
+      <created>1737105355973</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737105355973</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add .">
+      <option name="closed" value="true" />
+      <created>1737105365115</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737105365115</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
