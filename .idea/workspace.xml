@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4880e878-b1b2-4b35-a302-10009ad1053a" name="更改" comment="add .">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary_Classification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary_Classification_Val.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/train/class1/安东辉15066923_2406029002_20240619_139106_139106_2024061900000794_139115_0139115_1_cropped.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/train/class1/安会2302038008_9000064009_20230202_127598_127598_2023020300000332_127658_0127658_1_cropped.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/train/class1/安纪华W6852c3a8a63_9000121752_20231002_133837_133837_2023100200000555_133855_0133855_1_cropped.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/enlarge.py" beforeDir="false" />
-    </list>
+    <list default="true" id="4880e878-b1b2-4b35-a302-10009ad1053a" name="更改" comment="add ." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +76,7 @@
       <updated>1737098526618</updated>
       <workItem from="1737098527674" duration="5547000" />
       <workItem from="1737105327980" duration="534000" />
-      <workItem from="1737105866527" duration="1143000" />
+      <workItem from="1737105866527" duration="1287000" />
     </task>
     <task id="LOCAL-00001" summary="add .">
       <option name="closed" value="true" />
@@ -151,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737106952878</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add .">
+      <option name="closed" value="true" />
+      <created>1737107030676</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737107030676</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
