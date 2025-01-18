@@ -87,7 +87,7 @@ def validate(model, loader, criterion):
     return running_loss / len(loader), accuracy
 
 # 训练与验证
-num_epochs = 10
+num_epochs = 20
 train_losses, val_losses, val_accuracies = [], [], []
 
 for epoch in range(num_epochs):

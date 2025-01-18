@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4880e878-b1b2-4b35-a302-10009ad1053a" name="更改" comment="add ." />
+    <list default="true" id="4880e878-b1b2-4b35-a302-10009ad1053a" name="更改" comment="add .">
+      <change afterPath="$PROJECT_DIR$/.idea/ImageText.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/class1/安东辉15066923_2406029002_20240619_139106_139106_2024061900000794_139115_0139115_1_cropped.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/class1/安会2302038008_9000064009_20230202_127598_127598_2023020300000332_127658_0127658_1_cropped.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/class1/安纪华W6852c3a8a63_9000121752_20231002_133837_133837_2023100200000555_133855_0133855_1_cropped.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/class2/安凤艳W0e5397ca573_W0e5397ca573_20240828_141183_141183_2024082800000094_141183_0141183_1_cropped.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/class2/安翠琴8385388_0913629_20240111_135706_135706_2024011100000438_135713_0135713_1_cropped.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/class2/安风兰60016253_60016253_20240204_136196_136196_2024020400000025_136196_0136196_1_cropped.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/renameFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary_Classification.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_Classification.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary_Classification_Val.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_Classification_Val.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/input/安东辉15066923_2406029002_20240619_139106_139106_2024061900000794_139115_0139115_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/input/安东辉15066923_2406029002_20240619_139106_139106_2024061900000794_139115_0139115_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/input/安会2302038008_9000064009_20230202_127598_127598_2023020300000332_127658_0127658_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/input/安会2302038008_9000064009_20230202_127598_127598_2023020300000332_127658_0127658_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/input/安凤艳W0e5397ca573_W0e5397ca573_20240828_141183_141183_2024082800000094_141183_0141183_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/input/安凤艳W0e5397ca573_W0e5397ca573_20240828_141183_141183_2024082800000094_141183_0141183_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/input/安纪华W6852c3a8a63_9000121752_20231002_133837_133837_2023100200000555_133855_0133855_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/input/安纪华W6852c3a8a63_9000121752_20231002_133837_133837_2023100200000555_133855_0133855_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/input/安翠琴8385388_0913629_20240111_135706_135706_2024011100000438_135713_0135713_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/input/安翠琴8385388_0913629_20240111_135706_135706_2024011100000438_135713_0135713_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/input/安风兰60016253_60016253_20240204_136196_136196_2024020400000025_136196_0136196_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/input/安风兰60016253_60016253_20240204_136196_136196_2024020400000025_136196_0136196_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/resized_output/安东辉15066923_2406029002_20240619_139106_139106_2024061900000794_139115_0139115_1_cropped.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/resized_output/安会2302038008_9000064009_20230202_127598_127598_2023020300000332_127658_0127658_1_cropped.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/resized_output/安凤艳W0e5397ca573_W0e5397ca573_20240828_141183_141183_2024082800000094_141183_0141183_1_cropped.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/resized_output/安纪华W6852c3a8a63_9000121752_20231002_133837_133837_2023100200000555_133855_0133855_1_cropped.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/resized_output/安翠琴8385388_0913629_20240111_135706_135706_2024011100000438_135713_0135713_1_cropped.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/resized_output/安风兰60016253_60016253_20240204_136196_136196_2024020400000025_136196_0136196_1_cropped.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,38 +57,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-<<<<<<< Updated upstream
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.Binary_Classification.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Project/Python/imageTextProject/dataset/train/class2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-=======
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Binary_Classification.executor": "Run",
+    "Python.Binary_Classification_Val.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.renameFile.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/youthgt/PythonProjects/ImageText/dataset/val",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
->>>>>>> Stashed changes
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dataset/val" />
       <recent name="E:\Project\Python\imageTextProject\dataset\train\class2" />
       <recent name="E:\Project\Python\imageTextProject\dataset\train\class1" />
       <recent name="E:\Project\Python\imageTextProject\dataset\val" />
@@ -88,14 +105,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737098526618</updated>
-<<<<<<< Updated upstream
       <workItem from="1737098527674" duration="5547000" />
       <workItem from="1737105327980" duration="534000" />
-      <workItem from="1737105866527" duration="1287000" />
-      <workItem from="1737107314356" duration="43000" />
-=======
-      <workItem from="1737098527674" duration="5597000" />
->>>>>>> Stashed changes
+      <workItem from="1737105866527" duration="1143000" />
     </task>
     <task id="LOCAL-00001" summary="add .">
       <option name="closed" value="true" />
@@ -161,15 +173,7 @@
       <option name="project" value="LOCAL" />
       <updated>1737106952878</updated>
     </task>
-    <task id="LOCAL-00009" summary="add .">
-      <option name="closed" value="true" />
-      <created>1737107030676</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1737107030676</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,8 +194,10 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/main_py$Binary_Classification.coverage" NAME="Binary_Classification 覆盖结果" MODIFIED="1737106345445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/main_py$Binary_Classification.coverage" NAME="Binary_Classification 覆盖结果" MODIFIED="1737108601903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/main_py$Binary_Classification_Val.coverage" NAME="Binary_Classification_Val 覆盖结果" MODIFIED="1737178823169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/imageTextProject$main.coverage" NAME="main 覆盖结果" MODIFIED="1737103958926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/main_py$main.coverage" NAME="main 覆盖结果" MODIFIED="1737105902356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/main_py$main.coverage" NAME="main 覆盖结果" MODIFIED="1737178773513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/main_py$renameFile.coverage" NAME="renameFile 覆盖结果" MODIFIED="1737179601998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
